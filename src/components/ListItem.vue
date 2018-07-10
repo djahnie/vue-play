@@ -38,10 +38,6 @@ export default {
 }
 </script>
 
-        // splice basically means remove a part from an array
-        // the position is the first argument and the count the second
-        // so it means 'remove this one item'
+<style>
 
-
-
-           // this.$emit('delete', this.title)
+</style>
